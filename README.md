@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/pixoniic" target="blank"><img src="https://img.shields.io/twitter/follow/pixoniic?logo=twitter&style=for-the-badge" alt="pixoniic" /></a> </p>
 
+- 🌱 I’m currently learning **Data Structures and Algoritms**
+
 - 📝 I regularly write articles on [https://medium.com/@soarbh-srivastava](https://medium.com/@soarbh-srivastava)
 
 - 💬 Ask me about **HTML,CSS,JS,C++,C**
 
 - 📫 How to reach me **srivastav.soarbh@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
