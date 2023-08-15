@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soarbh-srivastava" alt="soarbh-srivastava" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pixoniic" target="blank"><img src="https://img.shields.io/twitter/follow/pixoniic?logo=twitter&style=for-the-badge" alt="pixoniic" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data Structures and Algoritms**
 
