@@ -124,10 +124,3 @@
 
 ###
 
-<h3 align="center">Recenly Played</h3>
-
-###
-
-<div align="center"><a herf="https://spotify-recently-played-readme.vercel.app/api?user=31opqy2rwaqqvy3vrawck37tamui"></a></div>
-
-###
