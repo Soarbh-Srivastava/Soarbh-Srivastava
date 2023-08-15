@@ -128,6 +128,6 @@
 
 ###
 
-<div align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31opqy2rwaqqvy3vrawck37tamui)</div>
+<div align="center"><a herf="https://spotify-recently-played-readme.vercel.app/api?user=31opqy2rwaqqvy3vrawck37tamui"></a></div>
 
 ###
