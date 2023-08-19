@@ -7,16 +7,16 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Soarbh-Srivastava.Soarbh-Srivastava&right_color=whitesmoke"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Soarbh-Srivastava.Soarbh-Srivastava&right_color=darkmagenta"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/zXfxt7qdC5QAAAAC/gojo-satoru-jujutsu-kaisen.gif"  />
+<p align="left">🌱 I’m currently learning Data Structures and Algoritms</p>
 
 ###
 
-<p align="left">🌱 I’m currently learning Data Structures and Algoritms</p>
+<img align="right" height="200" src="https://media.tenor.com/zXfxt7qdC5QAAAAC/gojo-satoru-jujutsu-kaisen.gif"  />
 
 ###
 
