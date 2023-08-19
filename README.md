@@ -5,12 +5,12 @@
 <h4 align="center">A passionate developer from India</h4>
 
 ###
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Soarbh-Srivastava.Soarbh-Srivastava&right_color=darkmagenta"  />
-</div>
-
-###
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 <p align="left">🌱 I’m currently learning Data Structures and Algoritms</p>
 
