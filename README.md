@@ -7,16 +7,19 @@
 ###
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+###
 
-<p align="left">🌱 I’m currently learning Data Structures and Algoritms</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Soarbh-Srivastava/count.svg?"  />
+</div>
 
 ###
 
 <img align="right" height="200" src="https://media.tenor.com/zXfxt7qdC5QAAAAC/gojo-satoru-jujutsu-kaisen.gif"  />
+
+###
+
+<p align="left">🌱 I’m currently learning Data Structures and Algoritms</p>
 
 ###
 
