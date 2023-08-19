@@ -5,12 +5,15 @@
 <h4 align="center">A passionate developer from India</h4>
 
 ###
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Soarbh-Srivastava/count.svg?"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Soarbh-Srivastava/count.svg?"  />
+  <img height="500" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"  />
 </div>
 
 ###
