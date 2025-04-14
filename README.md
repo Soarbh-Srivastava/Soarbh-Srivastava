@@ -22,11 +22,11 @@
 
 ###
 
-<p align="left">📝 I regularly write articles on https://medium.com/@soarbh-srivastava</p>
+<p align="left">📝 I  write articles on https://medium.com/@soarbh-srivastava</p>
 
 ###
 
-<p align="left">💬 Ask me about HTML,CSS,JS,C++,C</p>
+<p align="left">💬 Ask me about Java, c++, PERN , SQL ,Springboot , Makoto and WEB3  </p>
 
 ###
 
