@@ -18,7 +18,7 @@
 <img align="right" height="200" src="https://media.tenor.com/zXfxt7qdC5QAAAAC/gojo-satoru-jujutsu-kaisen.gif"  />
 
 ###
-<p align="left">🌱 I’m currently learning Data Structures and Algoritms</p>
+<p align="left">🌱 I’m currently Revising Java and Spring boot for interview</p>
 
 ###
 
