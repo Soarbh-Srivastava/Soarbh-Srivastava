@@ -51,7 +51,7 @@ I am a result-driven Software Engineer and graduate of **Chandigarh University**
 
 ### 🏗️ Featured Projects
 
-**[Multi-Social Media Automation Platform](https://github.com/Soarbh-Srivastava/post-pilot)**
+**[Multi-Social Media Automation Platform(post pilot)](https://post.soarbh.me)**
 A scalable scheduling SaaS platform for content management.
 
 - Engineered a robust architecture using **BullMQ and Redis** to reliably process up to **1 million transactions**.
